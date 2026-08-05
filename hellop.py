@@ -1,2 +1,6 @@
 print("Hello World!")
-print("Welcome to the Git Demo")
+
+a = 1
+b = 10
+
+c = a * b
